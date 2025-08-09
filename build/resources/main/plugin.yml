@@ -1,0 +1,5 @@
+name: PrismTeams
+version: '1.0'
+main: org.turbojax.prismTeams.PrismTeams
+api-version: '1.21'
+
